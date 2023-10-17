@@ -1,0 +1,1104 @@
+{
+    "bcs":{
+        "rankname":[
+            "BCS",
+            "Boot Camp Student"
+        ],
+        "rankimg":"https://i.imgur.com/2EZnsbq.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates"
+        ],
+        "job_perms":[
+            "Allowed to use LAW Academy job"
+        ],
+        "veh_perms":[
+            "Allowed to spawn anything from the LAW Academy spawners"
+        ],
+        "host_perms":[
+            "Cannot host trainings",
+            "Cannot host AT's",
+            "Cannot lead warzones"
+        ],
+        "activity":[
+            "Cannot go inactive for an indefinite time",
+            "Cannot be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Academy"
+        ]
+    },
+    "rct":{
+        "rankname":[
+            "RCT",
+            "Recruit"
+        ],
+        "rankimg":"https://i.imgur.com/yu3c9Mn.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates"
+        ],
+        "job_perms":[
+            "Allowed to use LAW Academy job"
+        ],
+        "veh_perms":[
+            "Allowed to spawn anything from the LAW Academy spawners"
+        ],
+        "host_perms":[
+            "Cannot host trainings",
+            "Cannot host AT's",
+            "Cannot lead warzones"
+        ],
+        "activity":[
+            "Cannot go inactive for an indefinite time",
+            "Cannot be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Academy",
+            "Recruit"
+        ]
+    },
+    "pvt":{
+        "rankname":[
+            "PVT",
+            "Private"
+        ],
+        "rankimg":"https://i.imgur.com/U3ZOk6a.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates",
+            "Can use weapon paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Can request permissions from **Lieutenant**+ ranks to spawn hydra/hunter in the training dimension",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Cannot host AT's",
+            "Can lead warzones"
+        ],
+        "activity":[
+            "Cannot go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier"
+        ]
+    },
+    "pfc":{
+        "rankname":[
+            "PFC",
+            "Private First Class"
+        ],
+        "rankimg":"https://i.imgur.com/vTmxgm8.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates",
+            "Can use weapon paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Can request permissions from **Lieutenant**+ ranks to spawn hydra/hunter in the training dimension",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier"
+        ]
+    },
+    "spc":{
+        "rankname":[
+            "SPC",
+            "Specialist"
+        ],
+        "rankimg":"https://i.imgur.com/rrcYqIZ.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Can request permissions from **Lieutenant**+ ranks to spawn hydra/hunter in the training dimension",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier"
+        ]
+    },
+    "lcpl":{
+        "rankname":[
+            "LCPL",
+            "Lance Corporal"
+        ],
+        "rankimg":"https://i.imgur.com/4W3JOkG.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Can request permissions from **Lieutenant**+ ranks to spawn hydra/hunter in the training dimension",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier"
+        ]
+    },
+    "cpl":{
+        "rankname":[
+            "CPL",
+            "Corporal"
+        ],
+        "rankimg":"https://i.imgur.com/aJIn3qG.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Can take pickups",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Can request permissions from **Lieutenant**+ ranks to spawn hydra/hunter in the training dimension",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier"
+        ]
+    },
+    "sgt":{
+        "rankname":[
+            "SGT",
+            "Sergeant"
+        ],
+        "rankimg":"http://i.imgur.com/UnBhZLA.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Can take pickups",
+            "Shout",
+            "Can use base manager panel",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Can request permissions to **Captain**+ ranks to take down a rented hydra/hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+"
+        ]
+    },
+    "ssg":{
+        "rankname":[
+            "SSG",
+            "Staff Sergeant"
+        ],
+        "rankimg":"http://i.imgur.com/7JlqQVu.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Can take pickups",
+            "Shout",
+            "Can use base manager panel",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+"
+        ]
+    },
+    "msg":{
+        "rankname":[
+            "MSG",
+            "Master Sergeant"
+        ],
+        "rankimg":"http://i.imgur.com/mAn76BG.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted."
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Recruiter*"
+        ]
+    },
+    "wo":{
+        "rankname":[
+            "WO",
+            "Warrant Officer"
+        ],
+        "rankimg":"https://i.imgur.com/e7A4425.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Able to open base gates",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted."
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Recruiter*"
+        ]
+    },
+    "lt":{
+        "rankname":[
+            "LT",
+            "Lieutenant"
+        ],
+        "rankimg":"https://i.imgur.com/FvrWlGi.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Base radio management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted."
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Able to promote with permissions from **Captain**+ ranks",
+            "Able to demote with permissions from **Captain**+ ranks",
+            "Able to kick with permissions from **Captain**+ ranks"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ]
+    },
+    "cpt":{
+        "rankname":[
+            "CPT",
+            "Captain"
+        ],
+        "rankimg":"https://i.imgur.com/RjQWdtp.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ]
+    },
+    "mjr":{
+        "rankname":[
+            "MJR",
+            "Major"
+        ],
+        "rankimg":"http://i.imgur.com/7MVCnWB.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3"
+        ]
+    },
+    "ltc":{
+        "rankname":[
+            "LTC",
+            "Lieutenant Colonel "
+        ],
+        "rankimg":"https://i.imgur.com/LwcFBaz.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ]
+    },
+    "col":{
+        "rankname":[
+            "COL",
+            "Colonel "
+        ],
+        "rankimg":"https://www.upload.ee/image/4111403/L0WNkmi.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ]
+    },
+    "bgn":{
+        "rankname":[
+            "BGN",
+            "Brigadier General"
+        ],
+        "rankimg":"http://i.imgur.com/uheI4g1.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Delete rank",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "General",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ]
+    },
+    "mjg":{
+        "rankname":[
+            "MJG",
+            "Major General"
+        ],
+        "rankimg":"http://i.imgur.com/lWNWw9P.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Delete rank",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "General",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ]
+    },
+    "ltg":{
+        "rankname":[
+            "LTG",
+            "Lieutenant General"
+        ],
+        "rankimg":"https://www.upload.ee/image/4111394/BvdlJAw.png",
+        "ingame_perms":[
+            "View clan log",
+            "Can use vehicle spawners",
+            "Rank management",
+            "Quick orders",
+            "Base radio management",
+            "Blacklist management",
+            "Set clan MOTD",
+            "Can take pickups",
+            "Invite player",
+            "Delete rank",
+            "Shout",
+            "Can use base manager panel",
+            "Kick player",
+            "Set member rank",
+            "Able to open base gates",
+            "Base Cinema Management",
+            "Withdraw from clan inventory",
+            "Can use weapon paintjobs",
+            "Can use custom skin textures",
+            "Can use custom vehicle paintjobs"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Can spawn all ground vehicles",
+            "Can use the Cargo-bob, Raindance, Police Maverick and Leviathan",
+            "Can spawn rustlers",
+            "Allowed to take down our own andromada with a hydra, without permissions",
+            "Allowed to take hydra for transport reasons",
+            "Allowed to spawn hydra/hunter in the training dimension without limits",
+            "Allowed to take down rented hydra's/hunters without permissions",
+            "Allowed to free-roam A51 with a hydra and engage players that are constantly flying by the base or planning on stealing the andromada. Engaging is only allowed when criminals are wanted.",
+            "Allowed to assist Ammo Transports with a hydra or hunter"
+        ],
+        "host_perms":[
+            "Can host trainings",
+            "Can host AT's",
+            "Can lead warzones"
+        ],
+        "other_perms":[
+            "Able to force soldiers to trainings",
+            "Able to give verbal warnings",
+            "Can give **Recruits** permissions for rustlers",
+            "Can test players",
+            "Can give **Boot Camp Students** permissions to take the job for trainings",
+            "Can give **Recruit**+ ranks permissions to spawn hydra/hunter in the training dimension",
+            "Can give **Private**+ ranks permissions to take down rented vehicles",
+            "Can give **Private**+ ranks permissions to spawn a hydra for transport",
+            "Able to promote",
+            "Able to demote",
+            "Able to kick",
+            "Has forum board permissions"
+        ],
+        "activity":[
+            "Can go inactive for an indefinite time",
+            "Can be part of the Reservist system"
+        ],
+        "discord_rank":[
+            "Military soldier",
+            "Sergeant+",
+            "Warrant Officer+",
+            "Captain+",
+            "General",
+            "Recruiter*"
+        ],
+        "clearance_level":[
+            "Level 1",
+            "Level 2",
+            "Level 3",
+            "Level 4"
+        ]
+    },
+    "gen":{
+        "rankname":[
+            "GEN",
+            "General"
+        ],
+        "rankimg":"https://www.upload.ee/image/4111391/OC1i0JY.png",
+        "ingame_perms":[
+            "Full permissions"
+        ],
+        "job_perms":[
+            "Can take job"
+        ],
+        "veh_perms":[
+            "Full permissions as long as used within rule boundaries"
+        ],
+        "host_perms":[
+            "Can host anything"
+        ],
+        "other_perms":[
+            "Full permissions"
+        ],
+        "discord_rank":[
+            "General"
+        ],
+        "clearance_level":[
+            "Full access"
+        ]
+    }
+}
