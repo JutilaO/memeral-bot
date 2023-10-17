@@ -1,0 +1,209 @@
+1: question = "Finnish flag is white and blue."; tAns = "true";
+2: question = "Ablert Einstein was awarded the Nobel Prize in Physics."; tAns = "true";
+3: question = "The capital of Finland is Vaasa."; tAns = "false";
+4: question = "The American civil war ended in 1789."; tAns = "false";
+5: qestion = "There is 7 red stripes in the US flag."; tAns = "true";
+6: question = "The flag of Germany has black, red and yellow in it."; tAns = "true";
+7: question = "Lauri Törni/Larry Thorne served in the Waffen SS."; tAns = "true";
+8: question = "Elon Musk is the founder of Facebook."; tAns = "false";
+9: question = "Mark Zuckerberg is the founder of Microsoft."; tAns = "false";
+10: question = "Bears seek a fight with humans."; tAns = "false";
+11: question = "The boiling point of water is 100C"; tAns = "true";
+12: question = "There is 51 states in USA."; tAns = "false";
+13: question = "The First World War started in 1915."; tAns = "false";
+14: question = "The First World War started in 1915."; tAns = "false";
+15: question = "The Second World War started in 1939."; tAns = "true";
+16: question = "Mona Lisa was painted by Shakespeare."; tAns = "false";
+17: question = "The Second World War ended in 1948."; tAns = "false";
+18: question = "Einstein is the creator of 'E=mc2'."; tAns = "true";
+19: question = "Currency of Japan is yen."; tAns = "true";
+20: question = "1L of water weights 1 kilogram."; tAns = "true";
+21: question = "In 1917, Finland declared its independence from Sweden."; tAns = "false";
+22: question = "Saab was founded in Sweden."; tAns = "true";
+23: question = "Antartica is the worlds largest desert."; tAns = "true";
+24: question = "Moses filled the ark with animals."; tAns = "false";
+25: question = "Rome is farther north than New York."; tAns = "true";
+26: question = "Pennsylvania is the only state to begin with 'p'."; tAns = "true";
+27: question = "Greenland is larger than Iceland."; tAns = "true";
+28: question = "The diameter of Earth is 8000 kilometers."; tAns = "false";
+29: question = "Grand Theft Auto San Andreas was released in 2004."; tAns = "true";
+30: question = "Grand Theft Auto V was firstly released in 2014."; tAns = "false";
+31: question = "C&C: Red Alert 2 was released in 2000."; tAns = "true";
+32: question = "Command And Conquer is a real-time strategy game series."; tAns = "true";
+33: question = "The cold war ended in 1979."; tAns = "false";
+34: question = "The label of Jägermeister has Saint Hubertus in it."; tAns = "true";
+35: question = "The word 'mineral' can be spelled using the letters found in 'parliament'."; tAns = "true";
+36: question = "Seine is the longest river in the world."; tAns = "false";
+37: question = "'N' in 'NATO' stands for 'New'."; tAns = "false";
+38: question = "There is 128 squares in a chessboard."; tAns = "false";
+39: question = "The 'Winged Hussars' were hungarian."; tAns = "false";
+40: question = "Barack Obama's wife's name is Michelangelo."; tAns = "false";
+41: question = "Asia is the largest continent."; tAns = "true";
+42: question = "Atlantic is the biggest ocean."; tAns = "false";
+43: question = "There are 206 bones in human body."; tAns = "true";
+44: question = "Turning 360 degrees means you are going to the opposite direction."; tAns = "false";
+45: question = "One century means 1000 years."; tAns = "false";
+46: question = "Sicily is the capital city of Italy."; tAns = "false";
+47: question = "Hexagon has 6 sides."; tAns = "true";
+48: question = "WHO stands for White Humans Organization."; tAns = "false";
+49: question = "Bill Gates founded the Electronic Arts."; tAns = "false";
+50: question = "Blood type **O+** is the universal donor."; tAns = "false";
+51: question = "CIA stands for Centrally Inhuman Agency."; tAns = "false";
+52: question = "Water starts to freeze at under 0 celsius."; tAns = "true";
+53: question = "The top stripe of US flag is red."; tAns = "true";
+54: question = "It is illegal in Switzerland to own only 1 guinea pig."; tAns = "true";
+55: question = "The oldest 'your mom' joke was discovered on a 3500 year old Babylonian tablet."; tAns = "true";
+56: question = "20% of American adults believe chocolate milk comes from brown cows."; tAns = "false";
+57: question = "If Pinocchio says 'my nose will grow now' it would cause a paradox."; tAns = "true";
+58: question = "There is 2000 steps in the Eiffel Tower."; tAns = "false";
+59: question = "There has never snowed in the Sahara desert."; tAns = "false";
+60: question = "New Zealand has it's own official Wizard."; tAns = "true";
+61: question = "Facebook shutdown 2 AI chatbots when they created a language for themselves."; tAns = "true";
+62: question = "The famous line of Leonardo DiCaprio - 'I am the king of the world!' - was improvised."; tAns = "true";
+63: question = "Iceland has the longest railway system in the world."; tAns = "false";
+64: question = "Gilberto Baschiera is considered as a modern day Robin Hood for his actions."; tAns = "true";
+65: question = "Joe Arridy had an IQ of 46 and was known as the happiest person in the dead row."; tAns = "true";
+66: question = "80% of autistic people are left handed."; tAns = "false";
+67: question = "Bulls get angry when they see red."; tAns = "false";
+68: question = "Saint Lucia is the only country named after a woman."; tAns = "true";
+69: question = "One kilogram of steel is lighter than one kilogram of feathers."; tAns = "false";
+70: question = "The capital of Germany is Frankfurt"; tAns = "false";
+71: question = "Denmark's flag consists of red and white"; tAns = "true";
+72: question = "The name of the known pirate Blackbeard was Edward tough"; tAns = "false";
+73: question = "The Soviet Union fell in 1991"; tAns = "true";
+74: question = "Mikhail Gorbachev was the last leader of the Soviet Union"; tAns = "true";
+75: question = "Cold War started in 1947"; tAns = "true";
+76: question = "North Korea has never been in a war"; tAns = "false";
+77: question = "The US dropped 7 million tons of bombs to Indochina during the Vietnam war"; tAns = "true";
+78: question = "Some ants can explode themselves"; tAns = "true";
+79: question = "Pol Pot was Vietnamese"; tAns = "false";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EndOfFile

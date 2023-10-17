@@ -1,0 +1,249 @@
+{
+    "roles": [
+        {
+            "name": "Godfather",
+            "type": "Mafia",
+            "description": "The godfather is the leader of the mafia side. He chooses who gets killed by the mafia at night.",
+            "perks": "High defense (cannot be killed by Vigilante or Neutral Killing)\nInterrogation expert (shows up as innocent to sheriff)"
+        },
+        {
+            "name": "Mafioso",
+            "type": "Mafia",
+            "description": "The mafioso is the maffia’s muscle. He carries out the godfather’s orders. If the mafioso gets roleblocked the godfather will carry out the attack himself.",
+            "perks": "Can kill a player on godfathers orders\nIf godfather dies he gets promoted to godfather"
+        },
+        {
+            "name": "Framer",
+            "type": "Mafia",
+            "description": "The framer is a special mafia role. Framer can frame someone so he shows up as suspicious to the sheriff.",
+            "perks": "Able to frame a player so he shows up as sus to sheriff\nGets promoted to mafioso if there is no godfather or mafioso."
+        },
+        {
+            "name": "Janitor",
+            "type": "Mafia",
+            "description": "The professional cleaner of the mafia clears a crime site. Doing this means the player will not get his role shared when his death is announced at daytime.",
+            "perks": "Go with the mafia to the person that gets killed and clean the crimesite.\nGets promoted to mafioso if there is no godfather or mafioso."
+        },
+        {
+            "name": "Sheriff",
+            "type": "Town",
+            "description": "The sheriff is a police officer who secretly interrogates players at night. The player he interrogates shows up as either suspicious or innocent.",
+            "perks": "Interrogate players at night to show up sus or inno\nMafioso or Framer shows as suspicious\nGodfather and town roles show as innocent"
+        },
+        {
+            "name": "Lookout",
+            "type": "Town",
+            "description": "The lookout is a skilled observer. He camps at someone's house at night to see who visited them.",
+            "perks": "Able to choose someone’s house to camp\nWill see who visits the house of the player they chose"
+        },
+        {
+            "name": "Vigilanter",
+            "type": "Town",
+            "description": "A town killing role. A former police officer who still owns a gun. He can shoot someone he thinks is suspicious. If you shoot a towny you commit suicide",
+            "perks": "Can shoot 1 player\nCannot shoot on night 1"
+        },
+        {
+            "name": "Veteran",
+            "type": "Town",
+            "description": "The veteran is a war vet obsessed with defending their own house. They will shoot anyone visiting them at night.",
+            "perks": "When on alert anyone visiting their house gets shot.\nCan alert 3 times max"
+        },
+        {
+            "name": "Doctor",
+            "type": "Town",
+            "description": "A skilled surgeon able to heal anyone who gets attacked.",
+            "perks": "Able to heal a player each night\nHas one self-heal"
+        },
+        {
+            "name": "Escort",
+            "type": "Town",
+            "description": "Literally a hooker. So hot and sexy that they distract anyone for one night.",
+            "perks": "Able to roleblock a player"
+        },
+        {
+            "name": "Retributionist",
+            "type": "Town",
+            "description": "A magical being that can resurrect a dead person back to life.",
+            "perks": "Able to revive 1 player from the death."
+        },
+        {
+            "name": "Transporter",
+            "type": "Town",
+            "description": "A town role that does literally as the role is named. You can transport 2 players at night. This might save someone’s live or get someone killed",
+            "perks": "Able to transport himself or other players with someone else at night."
+        },
+        {
+            "name": "Jester",
+            "type": "Neutral",
+            "description": "The jester is only obsessed with one thing. Getting lynched himself. His goal is to get hanged by the town.",
+            "perks": "If he gets hanged (wins) he can choose someone that dies due to guilt of lynching the jester.\nThe player he chooses cannot be revived."
+        },
+        {
+            "name": "Executioner",
+            "type": "Neutral",
+            "description": "The executioner hates one town member. He’ll do everything to lynch the innocent town member. Doing so will give him a win.",
+            "perks": "High defense (cannot be killed at night by a mafia or vigilante)\nTurns into jester if target gets killed at night"
+        },
+        {
+            "name": "Witch",
+            "type": "Neutral",
+            "description": "The witch is a neutral role that can control other players with magic. For example, they can control a mafia member to kill someone else than expected or a vigilante into shooting someone he doesn’t want to shoot.",
+            "perks": "Able to control other players at night"
+        },
+        {
+            "name": "Amnesiac",
+            "type": "Neutral",
+            "description": "A player that hit his head really badly and forgot his role. He may remember a role of a dead person.",
+            "perks": "idk ask mart"
+        },
+        {
+            "name": "Serial killer",
+            "type": "Neutral evil",
+            "description": "The serial killer is a psychopathic maniac who only wants one thing: to kill people. He’s really good at it too! Delivering an unstoppable attack to everyone besides the godfather.",
+            "perks": "Immune to attacks (mafia, vigilante.)\nCan kill anyone at night\nOnly wins if he’s the last one alive"
+        },
+        {
+            "name": "Arsonist",
+            "type": "Neutral evil",
+            "description": "The arsonist is another maniac obsessed with fire. He can douse someone’s house every night and ignite the houses whenever he likes. ",
+            "perks": "Setting someone’s house on fire is unstoppable and a doctor won’t even help\nBasic defense, can’t be shot by a vigilante or killed by mafia."
+        },
+        {
+            "name": "Werewolf",
+            "type": "Neutral evil",
+            "description": "The werewolf is a man that turns into a wolf at full moon. Rampaging at someone houses (or his own if he doesn’t visit) ",
+            "perks": "Normal man during a normal night\nTurns into a rampaging werewolf at full moon delivering powerful attacks (players can still be healed)"
+        }
+    ],
+    "goals": {
+        "mafia": "Kill all players who are not part of the mafia.",
+        "town": "Lynch every mafia and evildoer.",
+        "neutral": "Each neutral role has their own goals",
+        "neutral_evil": "Kill everyone, stay alive"
+    },
+    "variants": {
+        "six": {
+            "players": 6,
+            "mafia": {
+                "amount": 1,
+                "types": ["Godfather"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner"]
+            },
+            "town": {
+                "amount": 4,
+                "types": ["Sheriff", "Lookout", "Doctor", "Escort/Lookout"]
+            }
+        },
+        "seven": {
+            "players": 7,
+            "mafia": {
+                "amount": 2,
+                "types": ["Godfather", "Mafioso"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner", "Witch"]
+            },
+            "town": {
+                "amount": 4,
+                "types": ["Sheriff", "Escort/Lookout", "Doctor", "Escort", "Vigilante/Veteran"]
+            }
+        },
+        "eight": {
+            "players": 8,
+            "mafia": {
+                "amount": 2,
+                "types": ["Godfather", "Mafioso"]
+            },
+            "neutral_evil": {
+                "amount": 1,
+                "types": ["Serial killer", "Arsonist", "Werewolf"]
+            },
+            "town": {
+                "amount": 5,
+                "types": ["Sheriff", "Lookout", "Doctor", "Vigilante/Veteran", "Escort"]
+            }
+        },
+        "nine": {
+            "players": 9,
+            "mafia": {
+                "amount": 2,
+                "types": ["Godfather", "Mafioso"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner", "Witch"]
+            },
+            "neutral_evil": {
+                "amount": 1,
+                "types": ["Serial killer", "Arsonist", "Werewolf"]
+            },
+            "town": {
+                "amount": 5,
+                "types": ["Sheriff", "Lookout", "Doctor/Retributionist", "Vigilante/Veteran", "Escort"]
+            }
+        },
+        "ten": {
+            "players": 10,
+            "mafia": {
+                "amount": 3,
+                "types": ["Godfather", "Mafioso", "Framer/Janitor"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner", "Witch"]
+            },
+            "neutral_evil": {
+                "amount": 1,
+                "types": ["Serial killer", "Arsonist", "Werewolf"]
+            },
+            "town": {
+                "amount": 5,
+                "types": ["Sheriff", "Lookout", "Doctor/Retributionist", "Vigilante", "Escort"]
+            }
+        },
+        "eleven": {
+            "players": 11,
+            "mafia": {
+                "amount": 3,
+                "types": ["Godfather", "Mafioso", "Framer/Janitor"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner", "Witch"]
+            },
+            "neutral_evil": {
+                "amount": 1,
+                "types": ["Serial killer", "Arsonist", "Werewolf"]
+            },
+            "town": {
+                "amount": 5,
+                "types": ["Sheriff", "Lookout", "Doctor/Retributionist", "Vigilante", "Escort"]
+            },
+            "amnesiac": true
+        },
+        "twelve": {
+            "players": 12,
+            "mafia": {
+                "amount": 3,
+                "types": ["Godfather", "Mafioso", "Framer/Janitor"]
+            },
+            "neutral": {
+                "amount": 1,
+                "types": ["Jester", "Executioner", "Witch"]
+            },
+            "neutral_evil": {
+                "amount": 1,
+                "types": ["Serial killer", "Arsonist", "Werewolf"]
+            },
+            "town": {
+                "amount": 5,
+                "types": ["Sheriff", "Lookout", "Doctor/Retributionist", "Vigilante", "Escort", "Transporter"]
+            },
+            "amnesiac": true
+        }
+    }
+}
