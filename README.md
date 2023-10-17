@@ -1,4 +1,4 @@
-# MemeralBot
+# Memeral-bot
 
 Memeral was a Discord bot, and my first-ever programming project which I created before studying software development.
 
